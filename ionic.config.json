@@ -1,5 +1,8 @@
 {
   "name": "zoom-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
